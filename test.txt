@@ -1,3 +1,0 @@
-This is just test  which contains some code .I am 
-going to commit this code into git repository. 
-
